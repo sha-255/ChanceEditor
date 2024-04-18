@@ -1,0 +1,16 @@
+{
+    "name": "ChanceEditor.Editor",
+    "rootNamespace": "ChanceEditor",
+    "references": [
+        "GUID:5a8c3612b26b7f445ba23f949ffe6c1a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
