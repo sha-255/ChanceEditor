@@ -1,6 +1,6 @@
 # ChanceEditor
 
-Makes it easier to manage the randomness in the game
+Makes it easier to manage the randomness in the inspector
 
 ## Percantage Attribute
 
